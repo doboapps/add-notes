@@ -1,4 +1,4 @@
-# Dogger: The First social network for your dog
+# Add note: Aggregator of notes with user registration
 
 ![Tecnologies](doc/images/tecnologies.png)          
 <br/><br/>

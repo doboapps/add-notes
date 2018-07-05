@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  margin-top: 50px !important;
+  color: white !important;
+  text-shadow: 5px 4px 5px black;
+}
+
+.btn{
+  border-color: white  !important;
+  color: white !important;
+  text-shadow: 5px 4px 5px black;
+  box-shadow: 5px 4px 18px black;
+}
+
+.notebook{
+  width: 40%;
+}
+
+.btn:hover{
+      background: #ffffff6b  !important;
+}
+
+p{
+  color: white
+}
